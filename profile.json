@@ -1,0 +1,9 @@
+{
+  "ucp": {
+    "version": "2026-08-25"
+  },
+  "name": "bb-research-agent",
+  "payment_handlers": [
+    { "id": "dev.shopify.card", "type": "dev.shopify.card" }
+  ]
+}
