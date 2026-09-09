@@ -1,0 +1,15 @@
+{
+  "ucp": {
+    "version": "2026-08-25",
+    "services": {
+      "dev.ucp.shopping": {
+        "payment_handlers": [
+          {"type": "test", "id": "bbtest-handler", "supported_methods": ["card"]}
+        ]
+      }
+    },
+    "payment_handlers": [
+      {"type": "test", "id": "bbtest-handler", "supported_methods": ["card"]}
+    ]
+  }
+}
